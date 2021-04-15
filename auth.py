@@ -1,25 +1,3 @@
-# aSampleList = [1,2,3,4,5]
-
-# dictionaryOne = {
-#     'key1':'value1',
-#     'key2':'value2',
-#     'key3':'value3'
-# }
-
-# # del dictionaryOne["key1"]
-
-# # dictionaryOne.pop('key1')
-# # print(dictionaryOne)
-
-# for key, value in dictionaryOne.items():
-#     print("I have "+ key + " relating with " + value)
-
-# register
-#  - username and password,email
-# -
-# login
-# (username or email) and password
-
 database = {}
 
 import random
